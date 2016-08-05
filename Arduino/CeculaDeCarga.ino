@@ -1,4 +1,4 @@
-float const RESOLUCAO = 0.0048828125;
+float const RESOLUCAO = 0.0048828125;   //Tensão de Voltagem 5v e 10bits de resolução do arduino
 byte const SENSOR = A0;
 
 void setup() {
