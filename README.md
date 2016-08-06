@@ -1,3 +1,7 @@
-# Aquisicao-De-Dados
+# Projeto com Arduino
 
-Aquisição de dados para células de carga.
+Projetos envolvendo:
+  *Arduino
+  *Scilab
+  *Processing
+  *LabView
