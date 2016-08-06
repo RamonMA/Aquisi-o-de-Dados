@@ -1,7 +1,7 @@
 # Projeto com Arduino
 
 Projetos envolvendo:
-  *Arduino
-  *Scilab
-  *Processing
-  *LabView
+  1.Arduino
+  2.Scilab
+  3.Processing
+  4.LabView
